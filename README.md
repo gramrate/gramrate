@@ -1,5 +1,5 @@
-
-<h1 align="center">🚀 Backend Developer | Miknail Mishin | Go Specialist</h1>
+<h1 align="center">Miknail Mishin </h1>
+<h1 align="center">🚀 Backend Developer | Go Specialist</h1>
 
 <p align="center">
   <i>Create highloaded and scalable backend-applications</i>
