@@ -18,7 +18,7 @@
 ![Echo](https://img.shields.io/badge/Echo-00ADD8?logo=go&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?logo=go&logoColor=white)
 ![Fiber](https://img.shields.io/badge/Fiber-00ADD8?logo=go&logoColor=white)
-![Gorilla](https://img.shields.io/badge/Gorilla-mux-00ADD8?logo=go&logoColor=white)
+![Gorilla Mux](https://img.shields.io/badge/Gorilla_Mux-00ADD8?logo=go&logoColor=white)
 ![net/http](https://img.shields.io/badge/net/http-00ADD8?logo=go&logoColor=white)
 
 ### **Database & ORM**
