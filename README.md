@@ -1,4 +1,5 @@
-<h1 align="center">🚀 Backend Developer | Go Specialist</h1>
+
+<h1 align="center">🚀 Backend Developer | Miknail Mishin | Go Specialist</h1>
 
 <p align="center">
   <i>Create highloaded and scalable backend-applications</i>
@@ -71,7 +72,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
-
 ---
 
 <p align="center">
