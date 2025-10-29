@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Backend Developer | Go Specialist</h1>
 
 <p align="center">
-  <i>Создаю высоконагруженные и масштабируемые backend-решения</i>
+  <i>Create highloaded and scalable backend-applications</i>
 </p>
 
 ---
